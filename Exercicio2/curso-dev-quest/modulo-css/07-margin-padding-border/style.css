@@ -1,0 +1,17 @@
+p{
+    margin: 30px 15px;
+    padding: 20px;
+    background-color: aquamarine;
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+}
+
+h1{
+    border-style: solid;
+    border-width: 20px;
+    border-top-color: green;
+    border-bottom-color: orange;
+    border-left-color: blueviolet;
+    border-right-color: cyan;
+}

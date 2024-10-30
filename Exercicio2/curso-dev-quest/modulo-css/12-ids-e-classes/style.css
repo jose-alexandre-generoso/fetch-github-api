@@ -1,0 +1,16 @@
+/*Usando Id
+#descricao-videogame {
+    background-color: orange;
+}
+#descricao-pc {
+    background-color: green;
+}
+*/
+/*Usando Classes*/
+.descricao-produto {
+    background-color: orange;
+    color: aliceblue;
+}
+.promocao {
+    border: solid 10px green;
+}
